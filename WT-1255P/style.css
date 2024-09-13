@@ -1,0 +1,27 @@
+.nav-bg{
+    background-color: #2c3d50 !important;
+}
+.main-container{
+    background-color: #1bbc9b !important;
+}
+.page-section-heading{
+    font-size: 3rem;
+    color: #2c3d50;
+    font-weight: 600;
+}
+.about-container{
+    background-color: #1bbc9b !important;
+}
+.footer-container{
+    background-color: #2c3d50 !important;
+}
+#sbootstrap {
+    color: #1aba9e !important;
+}
+#sbootstrap:hover {
+    color: #197a67 !important;
+}
+.copyright {
+    background-color: #1a252e !important;
+}
+
